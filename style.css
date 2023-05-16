@@ -147,6 +147,7 @@ header .elements .btn {
   padding: 0.6rem 2rem;
   border-radius: 2rem;
   margin-left: 2rem;
+  box-shadow: 1px 1px 6px 0px #04040487;
 }
 
 header .elements .btn:nth-child(3) {
