@@ -61,7 +61,7 @@ body {
   cursor: pointer;
 }
 
-.btn:hover{
+.btn:hover {
   color: rgb(72, 72, 72);
 }
 
@@ -126,7 +126,7 @@ header .elements .profile-section {
   cursor: pointer;
 }
 
-.profile-section .profile-img{
+.profile-section .profile-img {
   height: 60px;
 }
 
@@ -174,7 +174,6 @@ header .elements .btn:nth-child(3) {
 .card-container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(3, 1fr);
   gap: 20px;
   margin-top: 20px;
 }
